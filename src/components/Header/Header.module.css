@@ -1,0 +1,23 @@
+.headerContainer {
+flex-direction: row;
+display: flex;
+justify-content: space-between;
+padding: 16px 20px;
+border-left: 1px solid #F5F5F5;
+}
+
+.headerContainer input{
+    padding: 5px;
+    background-color: '#F5F4F6';
+    color: '#F5F4F6';
+}
+
+.avatarContainer{
+    display: flex;
+    gap: 15px;
+    padding-top: 5px;
+}
+.header{
+    flex-direction: column;
+}
+

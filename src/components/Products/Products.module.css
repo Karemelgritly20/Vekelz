@@ -1,0 +1,57 @@
+.allProductsContainer{
+    background-color: #F5F5F5;
+    height: 100%;
+}
+
+.header{
+    padding: 30px;
+}
+
+.header h5{
+    font-size: 30px;
+}
+
+.headerDropMenus{
+    flex-direction: row !important;
+    display: flex;
+    gap: 25px !important;
+    justify-content: space-between;
+}
+
+
+.rightBtns button{
+    background-color: white;
+    font-size: 30px;
+    
+}
+
+.rightBtns button{
+    margin-left: 16px !important;
+}
+
+
+
+select{
+    border: none;
+    padding: 10px 20px;
+    gap: 23px;
+    border-radius: 20px;
+}
+
+.leftMenus{
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+}
+
+/* .itemCardContainer{ 
+    display: flex;
+    flex-direction: row;
+} */
+
+.products{
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+}
+
